@@ -16,22 +16,23 @@ Understand customer spending habits.
 Recommend relevant products.
 Improve marketing campaign performance.
 Increase customer retention and revenue.
+
 🎯 Objectives
 Segment customers based on their spending behavior.
 Discover meaningful customer groups using clustering techniques.
 Identify frequently purchased product combinations.
 Generate association rules for product recommendations.
 Provide actionable insights for targeted marketing campaigns.
+
 📊 Dataset
-
 The dataset contains customer information such as:
-
 Customer ID
 Age
 Gender
 Annual Income
 Spending Score
 Purchased Products (for association rule mining)
+
 🛠️ Technologies Used
 Python
 Pandas
@@ -70,28 +71,8 @@ Lift
 
 The generated association rules help identify products that customers are likely to purchase together.
 
-📊 Project Workflow
-Data Collection
-        │
-        ▼
-Data Cleaning
-        │
-        ▼
-Exploratory Data Analysis
-        │
-        ▼
-Feature Scaling
-        │
-        ▼
-K-Means Clustering
-        │
-        ▼
-Customer Segmentation
-        │
-        ▼
-Association Rule Mining (Apriori)
-        │
-        ▼
+
+
 Targeted Marketing Recommendations
 📷 Visualizations
 
